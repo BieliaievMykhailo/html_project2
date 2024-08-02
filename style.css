@@ -389,6 +389,11 @@ section > div > pre {
     margin-top: 12px;
     margin-bottom: 15px;
     margin-left: 29px;
+    text-shadow:
+            -2px -2px 0 #02061A,
+            2px -2px 0 #02061A,
+            -2px  2px 0 #02061A,
+            2px  2px 0 #02061A;
 }
 
 .picture1 {
